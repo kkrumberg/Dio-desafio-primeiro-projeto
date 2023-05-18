@@ -1,0 +1,54 @@
+<html>
+<head>
+  <title>O Dragão</title>
+</head>
+<body>
+  <h1>O Dragão é um Taboo</h1>
+  <h2>Temos que ouvir o que se diz sobre eles.</h2>
+  <h3>Por ser hibrido entre o mundo real e das ideias</h3>
+  <h4>Não possui idade</h4>
+  <h5>Porém ficam mais fortes devido à suas experiencias</h5>
+  <h6>Não moram somente em cavernas</h6>
+
+  <p>
+    Atire no dado e coloque num documento um número de 1 a 6 sobre cada tributo, Agilidade, Força, inteligencia, vigor e sorte . <mark>Faça isso e procure uma imagem legal de um dragão na internet</mark> tente ser inusitado <small>sem copiar, coloque no paint 3D e torne ele único</small>. 
+   <i>Por que precisa de um texto em itálico hehe</i>, <u>Por que precisa de um texo sublinhado</u>. 
+  <strong>Por que precisa de um texto em negrito</strong>.
+  </p>
+  <p> Lista de itens iniciais  </p>
+  <ol>
+    <li>Carne</li>
+    <li>Agua</li>
+    <li>uma adaga</li>
+  </ol>
+  <p> Lista de fraquezas  </p>
+  <ul>
+    <li>Agua</li>
+    <li>Raio</li>
+    <li>Veneno</li>
+  </ul>
+  <p> Link para começar seu mundo cripto  </p>
+  <a href="https://accounts.binance.com/register?ref=207007808&utm_campaign=web_share_copy">Clique aqui e inicia sua conta na Binance!!!!</a>
+
+  <hr>
+
+  <p>
+    Este é um exemplo de texto com subscrito: H<sub>2</sub>O. E este é um exemplo de texto com sobrescrito: E = mc<sup>2</sup>.
+  </p>
+
+  <blockquote>
+    Viva a vida como ela deve ser vivida.
+  </blockquote>
+  <p>
+    Não sei quem fala essa frase obvia. Mas encare como uma referência.
+  </p>
+  <font color="red">FOGO SOCORRO!!!!.</font>
+
+  <del>Este texto está marcado para exclusão com o tracejado.</del>
+
+  <p>
+    Este é um exemplo de utilização da tag <abbr title="O Dragão roeu o roupa do rei de da bala de goma E FIM!!!!">HTML</abbr>.
+  </p>
+
+</body>
+</html>
